@@ -1,0 +1,14 @@
+<html>
+
+<head><title>ยินดีต้อนรับ</title></head>
+
+<body bgcolor = “pink”>
+
+<center>ประวัติส่วนตัว <br><br>
+
+<img  src =”pic1.jpg”><br><br>
+
+ชื่อ – สกลุ : นาย ……………………
+</center>
+</body>
+<html>
