@@ -1,14 +1,13 @@
 <html>
 
-<head><title>ยินดีต้อนรับ</title></head>
+<head><title>wanwisa</title></head>
 
-<body bgcolor = “pink”>
+<body bgcolor = โ€pinkโ€>
 
-<center>ประวัติส่วนตัว <br><br>
+<center>018<br><br>
 
-<img  src =”pic1.jpg”><br><br>
+<img  src =โ€pic1.jpgโ€><br><br>
 
-ชื่อ – สกลุ : นาย ……………………
 </center>
 </body>
 <html>
